@@ -14,6 +14,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </td>
+
 <td valign="top">
 <h3>Code in:</h3>
 
@@ -21,14 +22,16 @@
 
 </td>
 
-  </tr>
-</table>
-
+<td valign="top">
 <h3>Routing - Authentication - Hosting:</h3>
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</td>
+
+<td valign="top">
 
 <h3>Backend:</h3>
 
@@ -36,6 +39,9 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+</td>
+
+<td valign="top">
 <h3>Design:</h3>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -43,15 +49,26 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+</td>
+
+<td valign="top">
 <h3>Tools:</h3>
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+</td>
+
+<td valign="top">
 <h3>Debug - UI/UX:</h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
+</td>
+
+  </tr>
+</table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunitCorneleous&layout=compact)](https://github.com/SunitCorneleous)
 
