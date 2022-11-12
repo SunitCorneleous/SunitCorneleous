@@ -22,7 +22,10 @@
 
 </td>
 
-<td valign="top">
+  </tr>
+
+  <tr>
+  <td valign="top">
 <h3>Routing - Authentication - Hosting:</h3>
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -40,8 +43,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </td>
+  </tr>
 
-<td valign="top">
+  <tr>
+    <td valign="top">
 <h3>Design:</h3>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -66,7 +71,7 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 </td>
-
+  
   </tr>
 </table>
 
