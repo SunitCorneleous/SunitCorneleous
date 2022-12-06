@@ -16,7 +16,13 @@
 
 <div align="center">
 
+<div>
+
+</div style="display: flex;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunitCorneleous&layout=compact)](https://github.com/SunitCorneleous)
+
+[![Sunit Corneleous's stats](https://github-readme-stats.vercel.app/api/wakatime?username=SunitCorneleous)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
