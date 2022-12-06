@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunitCorneleous&layout=compact)](https://github.com/SunitCorneleous)
 
-[![Sunit Corneleous's stats](https://github-readme-stats.vercel.app/api/wakatime?username=SunitCorneleous)](https://github.com/anuraghazra/github-readme-stats)
+[![Sunit Corneleous's stats](https://github-readme-stats.vercel.app/api/SunitCorneleous?username=SunitCorneleous)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
