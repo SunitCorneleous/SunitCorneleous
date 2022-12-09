@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sunit.corneleous25@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HDT99XoSrERHQ7Ie2Ed7fdF9Uv37TN4O/view" target="blank">resume</a>
+- 📄 Know about my experiences in my resume <a href="https://drive.google.com/file/d/1HDT99XoSrERHQ7Ie2Ed7fdF9Uv37TN4O/view" target="blank">click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
