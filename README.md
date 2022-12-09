@@ -5,8 +5,6 @@
 
 <h3 align="center">I have completed my B.Sc. in Computer Science of Engineering from Daffodil International University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunitcorneleous&label=Profile%20views&color=0e75b6&style=flat" alt="sunitcorneleous" /> </p>
-
 - 🌱 I’m currently learning **Next.js, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://sunit-corneleous.netlify.app/](https://sunit-corneleous.netlify.app/)
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **sunit.corneleous25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HDT99XoSrERHQ7Ie2Ed7fdF9Uv37TN4O/view](https://drive.google.com/file/d/1HDT99XoSrERHQ7Ie2Ed7fdF9Uv37TN4O/view)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HDT99XoSrERHQ7Ie2Ed7fdF9Uv37TN4O/view" target="blank">resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
