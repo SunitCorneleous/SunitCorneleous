@@ -1,19 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sunit Corneleous Sarker</h1>
-<h3 align="center">A passionate frontend web developer from Dhaka, Bangladesh</h3>
+# Hi, I'm Corneleous 👋
 
-<h3 align="center">I am a front-end web developer with expertise in React.js and with a decent knowledge of the backend using Node.js Express.js and MongoDB. I develop MERN-focused web applications.</h3>
+I'm a passionate developer with **3+ years of experience** building web applications. I specialize in:
 
-<h3 align="center">I have completed my B.Sc. in Computer Science of Engineering from Daffodil International University.</h3>
+- **Backend**: .NET, ASP.NET, Express.js
+- **Frontend**: React.js, JavaScript, jQuery
+- **Database**: SQL Server
+- **Education**: B.Sc. in Computer Science and Engineering (CSE)
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+I love crafting efficient, scalable solutions and am always exploring new tech. 🚀
 
-- 👨‍💻 All of my projects are available at [https://sunit-corneleous.netlify.app/](https://sunit-corneleous.netlify.app/)
-
-- 💬 Ask me about **React, Tailwind**
-
-- 📫 How to reach me **sunit.corneleous25@gmail.com**
-
-- 📄 Know about my experiences in my resume <a href="https://drive.google.com/file/d/1HDT99XoSrERHQ7Ie2Ed7fdF9Uv37TN4O/view" target="blank">click here</a>
 
 <h3 align="left">Find more about me:</h3>
 <p align="left">
