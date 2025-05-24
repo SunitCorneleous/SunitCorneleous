@@ -1,6 +1,6 @@
 # Hi, I'm Corneleous 👋
 
-I'm a passionate developer with **3+ years of experience** building web applications. I specialize in:
+I'm a passionate developer with **3+ years of experience** building Full-Stack applications. I specialize in:
 
 - **Backend**: .NET, ASP.NET, Express.js
 - **Frontend**: React.js, JavaScript, jQuery
